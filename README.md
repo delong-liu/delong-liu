@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @delong-liu
+- 👀 I’m interested in FP
+- 🌱 I’m currently learning Scala
